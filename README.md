@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lay-RosaLauren 🌹
+- 👋 Hi, I’m @Lay-RosaLauren 🇧🇷 💋💗🌹
 - 👀 I’m interested in tecnology 💻
 - 🌱 I’m currently learning Java and QA
 - 📫 charmehaut@uol.com.br
