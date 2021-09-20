@@ -19,10 +19,13 @@
 #
 <span align="center">
 
-# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lay-RosaLauren&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lay-rosalauren&layout=compact)](https://github.com/lay-rosalauren/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lay-RosaLauren&theme=dracula)
   
 </span>
 
+
+<IMG align=left SRC="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lay-RosaLauren&theme=dracula" alt="imagem">![5](https://user-images.githubusercontent.com/86569498/134069823-d2c700af-2399-4d6c-85d2-77911c43f659.PNG)<IMG align=right SRC="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lay-RosaLauren&theme=dracula">
+  
 <!---
 Lay-RosaLauren 🇧🇷 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
