@@ -14,7 +14,7 @@ jobs :
       - usos : acções / check-out @ v2 
       - usos : vn7n24fzkq / github-profile-sumárias-cards @ liberação 
         env :
-           GITHUB_TOKEN : $ {{secrets.GITHUB_TOKEN}} 
+           GITHUB_TOKEN : $ {{secrets.SUMMARY_CARDS_TOKEN}} 
         com :
            NOME DE UTILIZADOR : $ {{github.repository_owner}}
            
