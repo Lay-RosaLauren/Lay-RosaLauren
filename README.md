@@ -19,12 +19,12 @@
 #
 <span align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lay-RosaLauren&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lay-rosalauren&theme=dracula)
   
 </span>
 
 
-<IMG align=left SRC="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lay-RosaLauren&theme=dracula" alt="imagem"><IMG align=right SRC="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lay-RosaLauren&theme=dracula">
+<IMG align=left SRC="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lay-RosaLauren&theme=dracula" alt="imagem"><IMG align=right SRC="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lay-rosalauren&theme=dracula">
   
 <!---
 Lay-RosaLauren 🇧🇷 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
