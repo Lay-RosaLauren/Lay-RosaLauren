@@ -24,7 +24,7 @@
 </span>
 
 
-<IMG align=left SRC="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lay-RosaLauren&theme=dracula" alt="imagem">![5](https://user-images.githubusercontent.com/86569498/134069823-d2c700af-2399-4d6c-85d2-77911c43f659.PNG)<IMG align=right SRC="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lay-RosaLauren&theme=dracula">
+<IMG align=left SRC="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lay-RosaLauren&theme=dracula" alt="imagem"><IMG align=right SRC="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lay-RosaLauren&theme=dracula">
   
 <!---
 Lay-RosaLauren 🇧🇷 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
