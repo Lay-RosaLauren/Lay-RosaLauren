@@ -19,7 +19,7 @@
 #
 <span align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lay-RosaLauren&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lay-RosaLauren&theme=dracula&include_all_commits=true)
   
 </span>
 
