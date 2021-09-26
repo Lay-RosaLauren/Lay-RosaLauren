@@ -26,6 +26,8 @@
 
 <IMG align=left SRC="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lay-RosaLauren&theme=dracula" alt="imagem"><IMG align=right SRC="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lay-RosaLauren&theme=dracula">
   
+![Snake animation](https://github.com/Lay-RosaLauren/Lay-RosaLauren/blob/output/github-contribution-grid-snake.svg)
+  
 <!---
 Lay-RosaLauren 🇧🇷 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
