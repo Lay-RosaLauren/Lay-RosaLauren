@@ -8,7 +8,7 @@
 - 👀 I’m interested in tecnology 💻 
 - 🌱 I currently work at Compass.uol - QA Tester Junior | 
 - And on my blog - Charme Haut® - Always looking for new knowledge.
-- I love listening to Sade, Kenny G, Coldplay, Donna Summer and music that touches my ❤️.
+- I love listening to Sade, Kenny G, Coldplay, Donna Summer, Dua Lipa and music that touches my ❤️.
 - 📫 charmehaut@uol.com.br
 - <a href="https://www.linkedin.com/in/lay-rosalauren-ba0612141/"><img src="https://user-images.githubusercontent.com/86569498/132380918-1440822a-b20a-4188-b518-67f185009db9.png" alt="endpoint" style="max-width: 100%;"></a>
 
