@@ -1,4 +1,4 @@
-nome : GitHub-Profile-Summary-Cards
+nome : generate animation
 on :
    schedule : # execute a cada 24 horas 
     - cron : " * * / 24 * * * "
