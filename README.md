@@ -35,8 +35,6 @@
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
-
-  ![Snake animation](https://github.com/Lay-RosaLauren/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
   
 <!---
 Lay-RosaLauren 🇧🇷 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
