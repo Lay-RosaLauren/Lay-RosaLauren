@@ -27,16 +27,14 @@
 
 
 <IMG align=left SRC="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lay-RosaLauren&theme=dracula" alt="imagem"><IMG align=right SRC="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lay-RosaLauren&theme=dracula">
-  
-       
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+![Snake animation](https://github.com/seu-usuário-aqui/Lay-RosaLauren/blob/output/github-contribution-grid-snake.svg) 
 </picture>
 
+
       
-</div>
+
 
 
   
